@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-mysql",
+  "version": "1.0.0",
+  "description": "repo for my \"bamazon\" app using MySQL and Node.js",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackCozine/bamazon-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZackCozine/bamazon-mysql/issues"
+  },
+  "homepage": "https://github.com/ZackCozine/bamazon-mysql#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
